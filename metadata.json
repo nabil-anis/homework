@@ -1,0 +1,5 @@
+{
+  "name": "homework",
+  "description": "A minimal starter application ready for deployment on Vercel.",
+  "requestFramePermissions": []
+}
